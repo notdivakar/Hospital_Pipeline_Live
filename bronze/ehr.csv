@@ -1,0 +1,51 @@
+patient_id,encounter_id,timestamp,age,sex,diagnosis,medication,allergies,notes
+P0021,E00001,1713920078, 45 ,female,URI,Lisinopril 10 mg,,follow-up scheduled
+P0022,E00002,1752289795,N/A,F,hypertension,metformin,penicillin,pt reports feeling better
+P0017,E00003,1757293078,68,,N/A,Lisinopril 10 mg,unknown,N/A
+P0009,E00004,1704606526,N/A,M,hypertenison,Lisinopril 10 mg,penicillin,History imported from legacy system
+P0004,E00005,1712238597,37,M,  migraine ,UNKNOWN,NKDA,follow-up scheduled
+P0024,E00006,1744745484,37,Male,Type 2 diabetes,UNKNOWN,NKDA,
+P0020,E00007,1736110874,68,,Type 2 diabetes,metformin,,pt reports feeling better
+P0025,E00008,1729652058,68,F,N/A,albuterol,unknown,
+P0012,E00009,1718458120,unknown,female,hypertenison,,,
+P0003,E00010,1757977627,52,unknown,URI,Lisinopril 10 mg,unknown,check spelling
+P0009,E00011,1760732200,68,,  migraine ,metformin,penicillin,follow-up scheduled
+P0011,E00012,1739526293,37,female,  migraine ,Lisinopril 10 mg,,check spelling
+P0013,E00013,1760978542,52,M,asthma,Lisinopril 10 mg,,N/A
+P0018,E00014,1727385422,N/A,unknown,N/A,albuterol,penicillin,pt reports feeling better
+P0017,E00015,1747711115,24,F,asthma,,penicillin,
+P0014,E00016,1756779526,N/A,Male,,UNKNOWN,NKDA,N/A
+P0001,E00017,1764216614, 45 ,,  migraine ,metformin,NKDA,check spelling
+P0006,E00018,1744157225, 45 ,unknown,asthma,UNKNOWN,none,
+P0010,E00019,1760639340,68,female,  migraine ,Lisinopril 10 mg,  latex,N/A
+P0001,E00020,1757072887,,F,Type 2 diabetes,albuterol,NKDA,pt reports feeling better
+P0002,E00021,1725395964,37,F,,metformin,  latex,pt reports feeling better
+P0005,E00022,1762449496,52,M,N/A,Lisinopril 10 mg,  latex,
+P0023,E00023,1721820057,N/A,,  migraine ,none,  latex,check spelling
+P0004,E00024,1725955851,37,M,hypertension,UNKNOWN,  latex,pt reports feeling better
+P0019,E00025,1723508142,37,,hypertension,Lisinopril 10 mg,none,follow-up scheduled
+P0011,E00026,1710355391,68,M,,Lisinopril 10 mg,  latex,pt reports feeling better
+P0024,E00027,1754600325,,female,,none,penicillin,follow-up scheduled
+P0004,E00028,1762357298,unknown,Male,N/A,none,,follow-up scheduled
+P0022,E00029,1761953496,37,F,N/A,,NKDA,follow-up scheduled
+P0008,E00030,1721026531,,female,N/A,Lisinopril 10 mg,NKDA,check spelling
+P0008,E00031,1710778082,37,F,hypertension,metformin,penicillin,pt reports feeling better
+P0014,E00032,1747071092,68,Male,hypertension,Lisinopril 10 mg,unknown,follow-up scheduled
+P0013,E00033,1727541238, 45 ,Male,,Lisinopril 10 mg,penicillin,History imported from legacy system
+P0007,E00034,1709240714,24,,  migraine ,metformin,none,N/A
+P0016,E00035,1748546415,52,F,Type 2 diabetes,Lisinopril 10 mg,none,N/A
+P0003,E00036,1763800428,N/A,F,URI,UNKNOWN,  latex,follow-up scheduled
+P0020,E00037,1711293348,unknown,M,URI,,,History imported from legacy system
+P0008,E00038,1727533476,52,,hypertenison,none,NKDA,follow-up scheduled
+P0001,E00039,1744670216,37,F,URI,UNKNOWN,NKDA,pt reports feeling better
+P0012,E00040,1710147218,unknown,M,asthma,none,  latex,
+P0010,E00041,1758239317,24,,hypertenison,,none,pt reports feeling better
+P0009,E00042,1714276429,52,M,hypertenison,UNKNOWN,penicillin,
+P0011,E00043,1722121530, 45 ,unknown,,albuterol,none,follow-up scheduled
+P0021,E00044,1741514665,24,F,  migraine ,Lisinopril 10 mg,,History imported from legacy system
+P0006,E00045,1743192309,N/A,unknown,hypertension,metformin,none,
+P0005,E00046,1752283122,unknown,unknown,asthma,none,penicillin,follow-up scheduled
+P0010,E00047,1736299629,unknown,female,URI,,none,History imported from legacy system
+P0025,E00048,1753627664,52,female,asthma,Lisinopril 10 mg,unknown,follow-up scheduled
+P0006,E00049,1733497164,68,M,asthma,,none,check spelling
+P0002,E00050,1745654754,68,Male,  migraine ,albuterol,penicillin,pt reports feeling better
