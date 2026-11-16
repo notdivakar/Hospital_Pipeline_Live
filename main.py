@@ -1,19 +1,21 @@
-from src import bronze, gold, silver, visualize
+from src import bronze, silver, gold, visualize
 
-
-def main() -> None:
-    print("Running bronze step...")
-    bronze.main()
-
-    print("Running silver step...")
-    silver.main()
-
-    print("Running gold step...")
-    gold.main()
-
-    print("Running visualization step...")
-    visualize.main()
-
+def main():
+    print("--- Running Bronze Layer ---")
+    bronze.ingest_raw_data()
+    
+    print("--- Running Silver Layer ---")
+    silver.clean_vitals()
+    silver.clean_labs()
+    silver.create_patient_master()
+    
+    print("--- Running Gold Layer ---")
+    gold.detect_anomalies()
+    
+    print("--- Generating Visualizations ---")
+    visualize.generate_hr_trend()
+    
+    print("Pipeline Execution Complete!")
 
 if __name__ == "__main__":
     main()
